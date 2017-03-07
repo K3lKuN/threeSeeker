@@ -1,2 +1,2 @@
-# threeSeeker
-Create a three for resaerch a string in a list.
+# treeSeeker
+Create a tree for resaerch a string in a list.
