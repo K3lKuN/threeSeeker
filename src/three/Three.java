@@ -8,7 +8,7 @@ import java.lang.*;
 /**
  * 
  * @author kelkun
- * @bried can create research three for a world
+ * @brief can create research three for a world
  *
  */
 public class Three {
@@ -32,7 +32,7 @@ public class Three {
 			File fichier = new File(path);
 			BufferedReader txt = new BufferedReader(new InputStreamReader(new FileInputStream(path), "UTF8"));
 			String line;
-			//Une ligne équivaut à une entrée
+			//Une ligne Ã©quivaut Ã  une entrÃ©e
 			while ((line = txt.readLine()) != null){
 				nbLine ++;
 				System.out.println(line);
